@@ -1,0 +1,4 @@
+{"equipamentos" : [ 
+  {"hostname":"EXAMPLE1","ip":"172.33.1.2"}, 
+  {"hostname":"EXAMPLE2","ip":"172.33.1.3"}
+  ]}
